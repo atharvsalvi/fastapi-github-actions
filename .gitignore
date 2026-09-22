@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Pytest cache
+.pytest_cache/
+
+# Python bytecode and cache directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables & secrets
+.env
+.env.*
+
+# IDE / Editor configurations
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
